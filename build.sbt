@@ -4,9 +4,9 @@ android.Plugin.androidBuild
 
 platformTarget in Android := "android-24"
 
-name := "shadowsocksr"
+name := "ultrar"
 
-applicationId  := "in.zhaoj.shadowsocksr"
+applicationId  := "party.liyin.ultrar"
 
 scalaVersion := "2.11.8"
 
